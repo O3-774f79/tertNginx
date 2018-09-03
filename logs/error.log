@@ -27,3 +27,12 @@
 2018/09/03 15:58:42 [emerg] 19944#1212: invalid number of arguments in "keepalive_timeout" directive in C:\Users\ADMIN\Desktop\nginx-1.15.3/conf/nginx.conf:34
 2018/09/03 15:58:54 [notice] 20060#20380: signal process started
 2018/09/03 15:58:54 [error] 20060#20380: OpenEvent("Global\ngx_reload_12812") failed (2: The system cannot find the file specified)
+2018/09/03 15:59:55 [error] 9672#16596: *234 limiting requests, excess: 10.115 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 15:59:59 [error] 9672#16596: *269 limiting requests, excess: 10.040 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:00 [error] 9672#16596: *280 limiting requests, excess: 10.160 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:01 [error] 9672#16596: *293 limiting requests, excess: 10.195 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:02 [error] 9672#16596: *304 limiting requests, excess: 10.165 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:03 [error] 9672#16596: *315 limiting requests, excess: 10.035 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:05 [error] 9672#16596: *340 limiting requests, excess: 10.110 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:14 [error] 9672#16596: *427 limiting requests, excess: 10.060 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2018/09/03 16:00:15 [error] 9672#16596: *442 limiting requests, excess: 10.110 by zone "req_limit_per_ip", client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
