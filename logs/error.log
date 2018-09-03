@@ -22,3 +22,8 @@
 2018/09/03 12:19:05 [error] 5488#17124: OpenEvent("Global\ngx_reload_13752") failed (2: The system cannot find the file specified)
 2018/09/03 12:25:15 [notice] 17064#16768: signal process started
 2018/09/03 12:25:15 [error] 17064#16768: OpenEvent("Global\ngx_reload_13752") failed (2: The system cannot find the file specified)
+2018/09/03 15:56:58 [emerg] 9576#9188: invalid number of arguments in "keepalive_timeout" directive in C:\Users\ADMIN\Desktop\nginx-1.15.3/conf/nginx.conf:34
+2018/09/03 15:58:01 [emerg] 14192#16800: invalid number of arguments in "keepalive_timeout" directive in C:\Users\ADMIN\Desktop\nginx-1.15.3/conf/nginx.conf:34
+2018/09/03 15:58:42 [emerg] 19944#1212: invalid number of arguments in "keepalive_timeout" directive in C:\Users\ADMIN\Desktop\nginx-1.15.3/conf/nginx.conf:34
+2018/09/03 15:58:54 [notice] 20060#20380: signal process started
+2018/09/03 15:58:54 [error] 20060#20380: OpenEvent("Global\ngx_reload_12812") failed (2: The system cannot find the file specified)
