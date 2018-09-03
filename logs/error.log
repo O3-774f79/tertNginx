@@ -1,0 +1,24 @@
+2018/09/03 11:57:29 [error] 4876#13896: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 11:59:07 [notice] 18732#16188: signal process started
+2018/09/03 12:00:43 [notice] 16584#8272: signal process started
+2018/09/03 12:02:27 [notice] 16916#16736: signal process started
+2018/09/03 12:06:17 [error] 19716#18848: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:06:18 [error] 19716#18848: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:06:18 [error] 19716#18848: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:06:18 [error] 19716#18848: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:06:18 [error] 19716#18848: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:09:21 [notice] 3756#7192: signal process started
+2018/09/03 12:10:07 [notice] 16340#11580: signal process started
+2018/09/03 12:10:14 [error] 3564#5544: *8 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:10:56 [error] 4876#18012: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:10:57 [error] 4876#18012: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:10:57 [error] 4876#18012: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:10:57 [error] 4876#18012: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:10:58 [error] 4876#18012: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:12:56 [error] 4876#18012: *4 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:13:43 [error] 6032#19052: *1 CreateFile() "C:\Users\ADMIN\Desktop\nginx-1.15.3/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: leadertest.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2018/09/03 12:15:53 [notice] 17520#8292: signal process started
+2018/09/03 12:19:05 [notice] 5488#17124: signal process started
+2018/09/03 12:19:05 [error] 5488#17124: OpenEvent("Global\ngx_reload_13752") failed (2: The system cannot find the file specified)
+2018/09/03 12:25:15 [notice] 17064#16768: signal process started
+2018/09/03 12:25:15 [error] 17064#16768: OpenEvent("Global\ngx_reload_13752") failed (2: The system cannot find the file specified)
