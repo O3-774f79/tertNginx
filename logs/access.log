@@ -284,3 +284,7 @@
 127.0.0.1 - - [05/Sep/2018:09:55:28 +0700] "GET / HTTP/1.1" 200 716 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
 127.0.0.1 - - [05/Sep/2018:09:55:28 +0700] "GET /iisstart.png HTTP/1.1" 200 98757 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
 127.0.0.1 - - [05/Sep/2018:09:55:28 +0700] "GET /favicon.ico HTTP/1.1" 404 4844 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Sep/2018:09:57:10 +0700] "GET /mywebsite/Connection/Get HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Sep/2018:10:57:12 +0700] "GET /mywebsite/Connection/Geyt HTTP/1.1" 404 3413 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Sep/2018:10:57:18 +0700] "GET /mywebsite/Connection/Get HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+127.0.0.1 - - [13/Sep/2018:14:22:57 +0700] "GET /mywebsite/Connection/Get HTTP/1.1" 200 2 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
